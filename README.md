@@ -4,7 +4,7 @@
 
 **Register Number:** 1924260208
 
-**Java Version:** eclipse
+**Java Version:** openjdk 21.0.13 (Temurin 21.0.13+9 LTS)
 
 ## How to compile and run any task
 
